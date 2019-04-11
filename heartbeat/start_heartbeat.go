@@ -1,6 +1,7 @@
 package heartbeat
 
 import (
+	"go_on_see/rabbitmq"
 	"os"
 	"time"
 )
