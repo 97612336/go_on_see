@@ -2,6 +2,7 @@ package main
 
 import (
 	"go_on_see/heartbeat"
+	"go_on_see/locate"
 	"go_on_see/objects"
 	"log"
 	"net/http"
