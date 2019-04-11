@@ -1,7 +1,7 @@
 package locate
 
 import (
-	"go_on_see/rabbitmq"
+	"go_on_see/dataservers/rabbitmq"
 	"os"
 	"strconv"
 )
